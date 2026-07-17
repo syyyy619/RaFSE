@@ -1,0 +1,7 @@
+scale: 100000
+seed: 42
+original_gallery_count: 951
+distractor_pool: training_drone_then_training_satellite
+sampling: with_replacement
+canonical_scale_schedule: [951, 10000, 100000, 500000, 1000000]
+

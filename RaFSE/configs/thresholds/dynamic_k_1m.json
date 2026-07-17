@@ -1,0 +1,14 @@
+{
+  "budgets": [20, 50, 100, 200],
+  "calibration_indices_sha256": "f9d169aa2a52fe25a59cd38adea183624c263c9a904c79747358c886ac83589b",
+  "calibration_query_count": 11356,
+  "calibration_ratio": 0.3,
+  "calibration_seed": 42,
+  "gallery_size": 1000000,
+  "protocol": "u1652_fixed_threshold_dynamic_k_v1",
+  "source": "label-free coarse-margin quantiles",
+  "target_proportions": [0.3, 0.3, 0.25, 0.15],
+  "tau1": 0.00733475387096405,
+  "tau2": 0.06591683626174927,
+  "tau3": 0.13337588310241694
+}

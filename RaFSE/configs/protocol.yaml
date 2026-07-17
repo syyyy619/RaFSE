@@ -1,0 +1,24 @@
+protocol_id: u1652_top200_fixed_threshold_v1
+dataset: University-1652
+direction: drone_to_satellite
+feature_dim: 768
+query_count: 37855
+original_gallery_count: 951
+ranking_depth: 200
+metrics:
+  - R@1
+  - R@5
+  - AP@200
+ap_convention: university1652_trapezoidal
+positive_outside_top200: zero
+junk_gallery_label: -1
+faiss_threads: 16
+pq_seed: 1234
+gallery_seed: 42
+latency_excludes:
+  - feature_extraction
+  - file_loading
+  - index_training
+  - index_construction
+  - threshold_calibration
+
