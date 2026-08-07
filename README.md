@@ -1,10 +1,4 @@
 # RaFSE
-<p align="center">
-  <img src="rafse_readme_real.gif"
-       alt="RaFSE retrieval pipeline"
-       width="960">
-</p>
-
 Official implementation of RaFSE for large-scale drone-to-satellite retrieval
 on University-1652.
 
