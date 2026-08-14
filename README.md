@@ -10,7 +10,7 @@ and generated indexes are not distributed in this repository.
 ## On-device Deployment
 
 <p align="center">
-  <img src="rafse_jetson_deployment.png" width="90%">
+  <img src="rafse_jetson_deployment.jpg" width="90%">
 </p>
 
 <p align="center">
