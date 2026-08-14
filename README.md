@@ -7,6 +7,16 @@ Dynamic-K configurations, retrieval code, and evaluation utilities used for
 the University-1652 experiments. Datasets, descriptors, labels, model weights,
 and generated indexes are not distributed in this repository.
 
+## On-device Deployment
+
+<p align="center">
+  <img src="rafse_jetson_deployment.png" width="90%">
+</p>
+
+<p align="center">
+  <em>RaFSE deployed on an NVIDIA Jetson Orin NX Super with a 100K satellite gallery.</em>
+</p>
+
 ## Installation
 
 The reference environment uses Python 3.9, NumPy 1.26.4, SciPy 1.13.1,
